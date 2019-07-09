@@ -61,3 +61,11 @@ You can have an opinion based on their actions, but judging them based on their 
 /ˈsekˌsizəm/
 noun
 Prejudice, stereotyping, discrimination or antagonism on the basis of sex.
+
+Attribution
+
+This Code of Conduct takes some extracts from the Contributor Covenant, version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
