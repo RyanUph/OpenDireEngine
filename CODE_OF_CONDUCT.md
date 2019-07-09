@@ -1,7 +1,7 @@
 Why this code of conduct?
 DireMonkey engine is aimed to serve the needs of indie game developpers. People who want to make games
 come from all backgrounds, and thus are a very diverse group of people. For this reason, 
-we want to make itso our community is the most inclusive possible.
+we want to make it so our community is the most inclusive possible.
 
 Here is what we expect:
 -Act in a respectful way towards others.
